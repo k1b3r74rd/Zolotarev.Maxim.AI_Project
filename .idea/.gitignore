@@ -1,2 +1,4 @@
 # Default ignored files
 /workspace.xml
+/settings.ini
+/private_key.json
